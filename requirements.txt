@@ -461,7 +461,7 @@ pygments==2.19.1
     #   ipython
     #   ipython-pygments-lexers
     #   rich
-pyjwt==2.10.1
+pyjwt==2.13.0
     # via msal
 pylibsrtp==0.12.0
     # via aiortc
