@@ -99,7 +99,7 @@ colorama==0.4.6
     # via griffe
 comm==0.2.2
     # via ipywidgets
-cryptography==45.0.4
+cryptography==50.0.0
     # via
     #   aiortc
     #   azure-identity
