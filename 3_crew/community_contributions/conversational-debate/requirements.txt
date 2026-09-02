@@ -82,7 +82,7 @@ coloredlogs==15.0.1
     # via onnxruntime
 crewai==0.148.0
     # via debate-prep-ai (pyproject.toml)
-cryptography==45.0.5
+cryptography==50.0.0
     # via pdfminer-six
 decorator==5.2.1
     # via ipython
