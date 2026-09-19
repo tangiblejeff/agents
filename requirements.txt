@@ -24,7 +24,7 @@ anthropic==0.53.0
     # via
     #   agents (pyproject.toml)
     #   langchain-anthropic
-anyio==4.9.0
+anyio==4.14.2
     # via
     #   anthropic
     #   gradio
