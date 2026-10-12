@@ -272,7 +272,7 @@ langgraph-checkpoint-sqlite==2.0.10
     # via agents (pyproject.toml)
 langgraph-prebuilt==0.2.2
     # via langgraph
-langgraph-sdk==0.1.70
+langgraph-sdk==0.4.4
     # via langgraph
 langsmith==0.3.45
     # via
