@@ -672,7 +672,7 @@ websockets==14.2
     #   gradio-client
     #   polygon-api-client
     #   semantic-kernel
-werkzeug==3.1.1
+werkzeug==3.1.9
     # via
     #   openapi-core
     #   sendgrid
