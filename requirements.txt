@@ -353,7 +353,7 @@ openapi-schema-validator==0.6.3
     #   openapi-spec-validator
 openapi-spec-validator==0.7.2
     # via openapi-core
-opentelemetry-api==1.34.1
+opentelemetry-api==1.45.1
     # via
     #   autogen-core
     #   opentelemetry-sdk
