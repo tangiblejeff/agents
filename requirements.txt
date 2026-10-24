@@ -549,7 +549,7 @@ semantic-version==2.10.0
     # via gradio
 sendgrid==6.12.3
     # via agents (pyproject.toml)
-setuptools==80.9.0
+setuptools==84.1.0
     # via agents (pyproject.toml)
 shellingham==1.5.4
     # via typer
