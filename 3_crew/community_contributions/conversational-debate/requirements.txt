@@ -261,7 +261,7 @@ numpy==2.3.1
     #   gradio
     #   onnxruntime
     #   pandas
-oauthlib==3.3.1
+oauthlib==4.0.1
     # via
     #   kubernetes
     #   requests-oauthlib
